@@ -1,0 +1,1 @@
+These files are used to test if your fancy_gym setup is working correctly
